@@ -2,6 +2,42 @@
   "clientId": "downtown-coffee-house",
   "notifications": [
     {
+      "id": "2026-09-30T11-49-22-391Z-downtown-coffee-house",
+      "heading": "POS update available",
+      "description": "updation",
+      "date": "2026-09-30",
+      "type": "update",
+      "targetClient": "downtown-coffee-house",
+      "updateAvailable": true,
+      "version": "1.1.9",
+      "buttonText": "Update Now",
+      "content": "updation"
+    },
+    {
+      "id": "2026-09-30T11-39-44-464Z-downtown-coffee-house",
+      "heading": "POS update available",
+      "description": "software",
+      "date": "2026-09-30",
+      "type": "update",
+      "targetClient": "downtown-coffee-house",
+      "updateAvailable": true,
+      "version": "1.1.8",
+      "buttonText": "Update Now",
+      "content": "software"
+    },
+    {
+      "id": "2026-09-30T11-32-40-024Z-downtown-coffee-house",
+      "heading": "POS update available",
+      "description": "sofware update",
+      "date": "2026-09-30",
+      "type": "update",
+      "targetClient": "downtown-coffee-house",
+      "updateAvailable": true,
+      "version": "1.1.7",
+      "buttonText": "Update Now",
+      "content": "sofware update"
+    },
+    {
       "id": "2026-09-30T09-28-27-796Z-downtown-coffee-house",
       "heading": "POS update available",
       "description": "Notification center redesign and manual refresh",
