@@ -2,6 +2,18 @@
   "clientId": "downtown-coffee-house",
   "notifications": [
     {
+      "id": "2026-09-30T09-28-27-796Z-downtown-coffee-house",
+      "heading": "POS update available",
+      "description": "Notification center redesign and manual refresh",
+      "date": "2026-09-30",
+      "type": "update",
+      "targetClient": "downtown-coffee-house",
+      "updateAvailable": true,
+      "version": "1.1.5",
+      "buttonText": "Update Now",
+      "content": "Notification center redesign and manual refresh"
+    },
+    {
       "id": "2026-09-30T08-09-05-498Z-downtown-coffee-house",
       "heading": "New feature",
       "description": "ui new",
