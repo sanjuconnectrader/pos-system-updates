@@ -1,8 +1,8 @@
-version: 1.1.10
+version: 1.1.11
 files:
-  - url: "https://github.com/sanjuconnectrader/pos-system-updates/releases/download/downtown-coffee-house-v1.1.10/Downtown.Coffee.POS.Setup.1.1.10.exe"
-    sha512: E+ymYyX1sfmTDLv7MN1k6cm5bl0vbqlqlRgwlIOulWNYkbM9s6sMsPKHBbt6Xdt0NEYG375ULzRwwin8Xbs/jg==
-    size: 176721387
-path: "https://github.com/sanjuconnectrader/pos-system-updates/releases/download/downtown-coffee-house-v1.1.10/Downtown.Coffee.POS.Setup.1.1.10.exe"
-sha512: E+ymYyX1sfmTDLv7MN1k6cm5bl0vbqlqlRgwlIOulWNYkbM9s6sMsPKHBbt6Xdt0NEYG375ULzRwwin8Xbs/jg==
-releaseDate: '2026-09-30T12:19:23.048Z'
+  - url: "https://github.com/sanjuconnectrader/pos-system-updates/releases/download/downtown-coffee-house-v1.1.11/Downtown.Coffee.POS.Setup.1.1.11.exe"
+    sha512: an1oVaGymICqeLaDvAxGtAReURoeU6R4z5Bd8gXbAuqfbJ0WW55SfCt84RNMrPLZgG65WtyYNsaGrxiZJU7zZw==
+    size: 176725867
+path: "https://github.com/sanjuconnectrader/pos-system-updates/releases/download/downtown-coffee-house-v1.1.11/Downtown.Coffee.POS.Setup.1.1.11.exe"
+sha512: an1oVaGymICqeLaDvAxGtAReURoeU6R4z5Bd8gXbAuqfbJ0WW55SfCt84RNMrPLZgG65WtyYNsaGrxiZJU7zZw==
+releaseDate: '2026-09-30T13:25:15.772Z'
