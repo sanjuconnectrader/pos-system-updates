@@ -1,0 +1,17 @@
+{
+  "clientId": "downtown-coffee-house",
+  "notifications": [
+    {
+      "id": "2026-09-30T07-52-30-409Z-downtown-coffee-house",
+      "heading": "New feature",
+      "description": "Ui updation",
+      "date": "2026-09-30",
+      "type": "feature",
+      "targetClient": "downtown-coffee-house",
+      "updateAvailable": false,
+      "version": null,
+      "buttonText": "Update Now",
+      "content": "Ui updation"
+    }
+  ]
+}
