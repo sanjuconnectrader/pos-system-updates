@@ -1,0 +1,8 @@
+version: 1.1.6
+files:
+  - url: "https://github.com/sanjuconnectrader/pos-system-updates/releases/download/pizza-hut-v1.1.6/pizza.Setup.1.1.6.exe"
+    sha512: Og1V5cgPun89xdGWPxjvzLPS3xLG/Ms0zZtZXzZEzzSkMA0xx5X3uOiil3KwzF3+rEbxGPPnr/2VqquLVQ+Vlw==
+    size: 176736796
+path: "https://github.com/sanjuconnectrader/pos-system-updates/releases/download/pizza-hut-v1.1.6/pizza.Setup.1.1.6.exe"
+sha512: Og1V5cgPun89xdGWPxjvzLPS3xLG/Ms0zZtZXzZEzzSkMA0xx5X3uOiil3KwzF3+rEbxGPPnr/2VqquLVQ+Vlw==
+releaseDate: '2026-09-30T09:35:04.855Z'
