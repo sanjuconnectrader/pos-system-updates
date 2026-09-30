@@ -1,0 +1,17 @@
+{
+  "clientId": "pizza-hut",
+  "notifications": [
+    {
+      "id": "2026-09-30T09-33-20-967Z-pizza-hut",
+      "heading": "POS update available",
+      "description": "Notification center redesign and manual refresh",
+      "date": "2026-09-30",
+      "type": "update",
+      "targetClient": "pizza-hut",
+      "updateAvailable": true,
+      "version": "1.1.6",
+      "buttonText": "Update Now",
+      "content": "Notification center redesign and manual refresh"
+    }
+  ]
+}
