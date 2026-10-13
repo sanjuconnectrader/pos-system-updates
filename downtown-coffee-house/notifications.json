@@ -2,6 +2,18 @@
   "clientId": "downtown-coffee-house",
   "notifications": [
     {
+      "id": "2026-10-13T09-21-46-251Z-downtown-coffee-house",
+      "heading": "POS update available",
+      "description": "Improve Recent Sales scrolling and include current Downtown Coffee updates",
+      "date": "2026-10-13",
+      "type": "update",
+      "targetClient": "downtown-coffee-house",
+      "updateAvailable": true,
+      "version": "1.1.13",
+      "buttonText": "Update Now",
+      "content": "Improve Recent Sales scrolling and include current Downtown Coffee updates"
+    },
+    {
       "id": "2026-09-30T13-45-50-159Z-downtown-coffee-house",
       "heading": "POS update available",
       "description": "Fixed one-click updates with automatic restart and improved sidebar branding.",
